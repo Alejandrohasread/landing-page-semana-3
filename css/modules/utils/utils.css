@@ -19,6 +19,9 @@
   .color-primary {
     color: var(--primary-main-color);
   }
+  .icon{
+    font-size: 3rem;
+  }
   
   @media (min-width: 768px) {
     .md\:d-block {

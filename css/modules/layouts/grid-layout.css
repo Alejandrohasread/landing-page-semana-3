@@ -8,7 +8,7 @@
   .g-layout--1-1 {
     grid-template-columns: 100%;
   }
-  g-layout--1-1-1{
+  .g-layout--1-1-1{
     grid-template-columns: 1fr;
   }
   .g-layout--center {
@@ -20,7 +20,7 @@
     .g-layout--1-1 {
       grid-template-columns: 1fr 1fr;
     }
-    g-layout--1-1-1{
+    .g-layout--1-1-1{
         grid-template-columns: 1fr 1fr 1fr;
       }
   }
