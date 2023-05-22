@@ -1,0 +1,13 @@
+.img {
+    display: block;
+  }
+  
+  .img--logo {
+    width: 80px;
+    height: 80px;
+  }
+  
+  .img--hero {
+    width: 512px;
+    height: auto;
+  }
