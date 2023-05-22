@@ -8,7 +8,7 @@
     --secondary-text-color: #777;
     --white-color: white;
     --primary-shadow-color: rgba(0, 0, 0, 0.5);
-    --primary-font-family: monospace;
+    --primary-font-family: 'Neutra2Text-Demi', sans-serif;
   }
   
   @media (min-width: 768px) {
